@@ -5,7 +5,7 @@
 #include <iostream>
 #include "SDL.h"
 #include <stdio.h>
-#include "main.h"
+#include "chip8.h"
 
 
 int main(int argc, char* args[]) {
@@ -48,6 +48,9 @@ int main(int argc, char* args[]) {
 
     //Quit SDL subsystems
     SDL_Quit();
+
+    // run emulator
+    Chip8();
 
     return 0;
 }

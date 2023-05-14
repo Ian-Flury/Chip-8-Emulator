@@ -6,3 +6,6 @@
 891	1202	7057230741745467	chip8emulator.exe	3bfba2c23fc03adb
 3	58	7057294316330003	CMakeFiles/chip8emulator.dir/chip8.cpp.obj	fcd91b19ded5d5c6
 58	257	7057294318215236	chip8emulator.exe	3bfba2c23fc03adb
+4	1090	7058060024622403	CMakeFiles/chip8emulator.dir/main.cpp.obj	3379fbf7ca803992
+3	58	7058060156424436	CMakeFiles/chip8emulator.dir/chip8.cpp.obj	fcd91b19ded5d5c6
+58	282	7058060158621833	chip8emulator.exe	3bfba2c23fc03adb
