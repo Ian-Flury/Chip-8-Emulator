@@ -1,0 +1,3 @@
+C:/Users/ianfl/CLionProjects/chip8emulator/cmake-build-debug/CMakeFiles/chip8emulator.dir
+C:/Users/ianfl/CLionProjects/chip8emulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ianfl/CLionProjects/chip8emulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

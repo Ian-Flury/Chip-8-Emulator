@@ -1,0 +1,9 @@
+#ifndef CHIP8EMULATOR_CHIP8_H
+#define CHIP8EMULATOR_CHIP8_H
+
+class chip8 {
+
+
+};
+
+#endif //CHIP8EMULATOR_CHIP8_H
